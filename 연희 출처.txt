@@ -1,0 +1,37 @@
+﻿<유명한 오픈 소스 사례 출처>
+
+1.ios SDK, 구글 크로뮴 프로젝트 - https://ko.wikipedia.org/wiki/IOS_SDK
+                                             https://namu.wiki/w/%ED%81%AC%EB%A1%9C%EB%AF%B8%EC%9B%80%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8 
+                                             https://m.blog.naver.com/PostView.nhn?blogId=no1_hanafax&logNo=220532345337&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+
+2.Blender - https://docs.blender.org/manual/en/dev/getting_started/about/history.html
+          	   https://namu.wiki/w/Blender
+
+3.텔레그램 - https://namu.wiki/w/%ED%85%94%EB%A0%88%EA%B7%B8%EB%9E%A8
+                 https://m.blog.naver.com/PostView.nhn?blogId=no1_hanafax&logNo=220532345337&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+
+4.ruby -  http://www.bloter.net/archives/271008
+            https://ko.wikipedia.org/wiki/%EB%A3%A8%EB%B9%84_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4)
+
+5.VirtualBox - https://ko.wikipedia.org/wiki/%EB%B2%84%EC%B6%94%EC%96%BC%EB%B0%95%EC%8A%A4
+
+<오픈 소스를 공개하기까지 고려할 부분>
+
+1.전체적인 내용 - http://hl1itj.tistory.com/139
+
+2.라이선스 - https://www.olis.or.kr/license/introduction.do
+
+3.API정의 - https://terms.naver.com/entry.nhn?docId=1179553&cid=40942&categoryId=32837
+
+<사진>
+https://downloads.silicon.co.uk/27728/blender-for-linux-248a-2/blender-logo/
+http://blog.naver.com/PostView.nhn?blogId=grtiger2&logNo=220973696270&parentCategoryNo=&categoryNo=17&viewDate=&isShowPopularPosts=true&from=search
+https://www.underconsideration.com/brandnew/archives/new_logo_for_firefox.php
+https://codeburst.io/15-free-ebooks-to-learn-python-c299943f9f2c
+http://www.bloter.net/archives/271008
+https://www.howtogeek.com/150258/how-to-save-time-by-using-snapshots-in-virtualbox/
+https://code.tutsplus.com/series/learn-ios-sdk-development-from-scratch--mobile-14536
+http://www.bloter.net/archives/190417
+
+
+
